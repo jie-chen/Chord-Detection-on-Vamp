@@ -11,3 +11,17 @@
 *.lai
 *.la
 *.a
+
+
+.DS_Store
+bin
+build
+*.user
+*.sdf
+*.suo
+ipch
+Release
+Debug
+*.opensdf
+Thumbs.db
+*.xcuserstate
