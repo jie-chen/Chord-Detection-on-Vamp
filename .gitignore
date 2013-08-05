@@ -23,5 +23,5 @@ ipch
 Release
 Debug
 *.opensdf
-Thumbs.db
+*.db
 *.xcuserstate
